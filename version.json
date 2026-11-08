@@ -1,6 +1,6 @@
 {
-"versionCode": 1,
-"versionName": "0.1.0",
-"apkUrl": "https://github.com/adolfo57chavez8-dot/riosocial-releases/releases/latest/download/riosocial.apk,
-"notes": "Primera versión"
+  "versionCode": 2,
+  "versionName": "0.1.1",
+  "apkUrl": "https://github.com/adolfo57chavez8-dot/riosocial-releases/releases/latest/download/riosocial.apk",
+  "notes": "Descargar videos, pausar, me gusta recibidos y visor de publicaciones"
 }
