@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.1.5",
+  "versionCode": 9,
+  "versionName": "0.1.6",
   "apkUrl": "https://github.com/adolfo57chavez8-dot/riosocial-releases/releases/latest/download/riosocial.apk",
-  "notes": "Responder mensajes, ver una sola vez, última conexión y privacidad de historias"
+  "notes": "Mejora de notificaciones"
 }
